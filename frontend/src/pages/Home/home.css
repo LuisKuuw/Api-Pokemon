@@ -1,0 +1,24 @@
+.navbar-pokemon{
+    background-color: #dc3545;
+    color: #fff;
+    padding: 20px 0px 20px 0;
+  }
+  
+  .input-nickname{
+    margin-left: 10px;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: 1px solid #fff;
+  }
+  
+  .selectedPokemon{
+    border: 5px solid #198754 !important;
+  }
+  
+  .handCard:hover{
+    cursor: pointer;
+  }
+
+  .btn-tablas{
+    margin-right: 10px !important;
+  }
